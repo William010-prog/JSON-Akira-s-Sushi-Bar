@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "nome": "Temaki",
+        "unidade": 1,
+        "custo": "R$ 15,00",
+        "ingredientes": "Arroz, nori, ceixe cru, maionese"
+    },
+    {
+        "id":2,
+        "nome": "Sushi",
+        "unidade": 6,
+        "custo": "R$ 25,00",
+        "ingredientes": "Sushi de atum, salmão, cream cheese"
+    },
+    {
+        "id":3,
+        "nome": "Tempurá",
+        "unidade": 2,
+        "custo": "R$ 30,00",
+        "ingredientes": "Cenoura, abobrinha, berinjela, frutos do mar"
+    },
+    {
+        "id":4,
+        "nome": "Yakisoba",
+        "unidade": 1,
+        "custo": "R$ 27,00",
+        "ingredientes": "Macarrão, cenoura, repolho, brocólis, carne bovina"
+    },
+    {
+        "id":5,
+        "nome": "Tonkatsu",
+        "unidade": 1,
+        "custo": "R$ 34,00",
+        "ingredientes": "Carne de porco empanada com farinha de trigo"
+    },
+    {
+        "id":6,
+        "nome": "Gyoza",
+        "unidade": 3,
+        "custo": "R$ 9,00",
+        "ingredientes": "Carne de porco moída, repolho, farinha de trigo e ovo para empanar"
+    }
+    
+]
